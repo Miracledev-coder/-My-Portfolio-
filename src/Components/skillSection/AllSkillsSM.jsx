@@ -11,11 +11,11 @@ import { FaElementor } from "react-icons/fa6";
 
 const skills = [
   {
-    skill: "HTML",
+    skill: "HTML5",
     icon: FaHtml5,
   },
   {
-    skill: "CSS",
+    skill: "CSS3",
     icon: FaCss3Alt,
   },
   {

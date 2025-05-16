@@ -13,11 +13,11 @@ import SingleSkill from "./SingleSkill";
 
 const skills = [
   {
-    skill: "HTML",
+    skill: "HTML5",
     icon: FaHtml5,
   },
   {
-    skill: "CSS",
+    skill: "CSS3",
     icon: FaCss3Alt,
   },
   {
