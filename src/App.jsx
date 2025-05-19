@@ -8,6 +8,8 @@ import HelperSection from "./Components/HelperSection";
 import SubSkills from "./Components/skillSection/SubSkills";
 import ExperienceMain from "./Components/experienceSection/ExperienceMain";
 import ProjectMain from "./Components/projectsSection/ProjectMain";
+import ContactMeMain from "./Components/contactMeSection/ContactMeMain";
+import FooterMain from "./Components/footer/FooterMain";
 
 function App() {
   return (
@@ -21,7 +23,8 @@ function App() {
       <SubSkills />
       <ExperienceMain />
       <ProjectMain />
-      <HelperSection />
+      <ContactMeMain />
+      <FooterMain />
     </main>
   );
 }
