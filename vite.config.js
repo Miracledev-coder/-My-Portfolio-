@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   base: "/mimiportfolio/",
   build: {
-    outDir: "dist",
+    outDir: "build",
     assetsDir: "assets",
     sourcemap: true,
   },
